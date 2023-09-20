@@ -19,3 +19,12 @@
 - flex 
 - transition 효과
 - 반응형(Mobile, Tablet, PC)
+
+## 2. Netflix main
+
+### PC
+![image](https://github.com/jakebox1966/Fe-Css-portfolio-LayoutTest/assets/138538879/361b7ee5-a782-4ac9-8d80-3794a053f595)
+
+![image](https://github.com/jakebox1966/Fe-Css-portfolio-LayoutTest/assets/138538879/fa29f5f6-10dc-4a66-b057-e71d4c66904a)
+
+![image](https://github.com/jakebox1966/Fe-Css-portfolio-LayoutTest/assets/138538879/62885f47-b9a1-45e4-bd58-7381708ae89e)
